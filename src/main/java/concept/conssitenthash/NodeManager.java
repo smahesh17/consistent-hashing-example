@@ -1,5 +1,6 @@
 package concept.conssitenthash;
 
+import concept.conssitenthash.strategy.HashStrategy;
 /**
  * just a sample - not multi-threaded
  */
